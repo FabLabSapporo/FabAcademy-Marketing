@@ -1,18 +1,3 @@
-### English
-
-Fab Academy is an intensive five-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi- disciplinary and hands-on learning experience that empowers students all over the world to learn-by-doing and to become active participants in more sustainable futures.
-
-The rapid development of digital fabrication technologies during the last years and its democratization, has been transforming industries, as well as old educational and research paradigms. The Fab Academy, together with the rest of the like 'How to Grow Almost Anything', is an example of a new approach to learning in the digital age.
-Our Distributed Educational Model, mixing in-person and online experiences, has been responsible for the creation of a vast community of learners and practitioners in every corner of the planet; this hybrid model takes the best of both worlds (tradicional education and online courses) to make a resilient and adaptable course, ready for facing today's global and local challenges.
-
-This transformative educational experience, focused in bridging both technical and soft skills, have students learn in local workgroups (Fab Labs), with peers, mentors, and machines, which are then connected globally by content sharing and video for interactive classes, forming a gobal network of 250 students in more than 65 Fab Labs.
-
-The course is directed by Neil Gershenfeld from MIT’s Center For Bits and Atoms and based on MIT’s rapid prototyping course: How to Make (Almost) Anything.
-
-Join us for 2025 edition of Fab Academy in Hokkaido!
-
-For more information visit http://fabacademy.org/about/
-
 ### Japanese 
 
 (auto-translated)
@@ -30,8 +15,11 @@ For more information visit http://fabacademy.org/about/
 
 詳細は http://fabacademy.org/about/ をご覧ください。
 
+---
 
-(Corrected by M.)
+(Corrected by M.v1)
+
+---
 
 ファブアカデミーは、デジタルファブリケーション機器を使いながら、プロジェクトの構想から設計、試作までを学ぶ５ヶ月間の集中プログラムです。世界中の生徒が手を動かしながら学び、より持続可能な未来をつくるための積極的な参加者になることを目指しておこなわれている、多領域的かつ実践的な学習体験です。
 
@@ -48,4 +36,23 @@ For more information visit http://fabacademy.org/about/
 
 より詳しい情報を知りたい方はこちらへ： http://fabacademy.org/about/
 
+---
 
+v2
+
+---
+
+ファブアカデミーは、デジタルファブリケーション機器を使い、プロジェクトの構想から設計、試作までを学ぶ５ヶ月間の集中プログラムです。ファブアカデミーは、世界中の受講生が手を動かしながら学び、より持続可能な未来をつくるための積極的な参加者になることを目指した、多領域的かつ実践的な学習体験です。
+
+ここ数年間におけるデジタルファブリケーション技術の急速な発展とその広がりは、産業界だけでなく、これまでの教育・研究のありかたにも大きな影響を与えています。ファブアカデミーは、デジタル時代の新しい学びへのアプローチのひとつです。
+
+ファブアカデミーがおこなう分散型教育は、対面とオンライン双方の経験を組み合わせることで、世界中のあらゆる場所で学習者と実践者の広大なコミュニティをつくりあげてきました。ファブアカデミーでは、今日わたしたちが直面しているグローバル／ローカルな課題に立ち向かうために、伝統的な対面教育とオンライン講座の長所を取り入た、一人一人に合わせた柔軟なコースを設けています。
+
+この新たな学習プログラムでは、技術的なスキルと対人関係スキルの両方を伸ばすことが重視されています。受講生は地域のワーキンググループ（ファブラボ）で、仲間や指導者、そしてマシンとともに学び、さらにコンテンツの共有やオンラインの双方向授業を通して、65以上のファブラボで250人の受講生からなるグローバルなネットワークとつながることができます。
+
+ファブアカデミーは、MITの人気講座「How to Make (Almost) Anything（ほぼ何でも作る方法）」をベースとしたプログラムで、MIT（マサチューセッツ工科大学）のビット・アンド・アトムズセンター所長のニール・ガーシェンフェルドが指揮をとっています。
+
+2025年、北海道で初めてファブアカデミーを開催します。
+ぜひご参加ください！
+
+より詳しい情報を知りたい方はこちらへ： http://fabacademy.org/about/
